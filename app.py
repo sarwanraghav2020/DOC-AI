@@ -16,7 +16,7 @@ Features
 • Questions for Doctor
 • Retrieved Context Viewer
 
-Author : Himanshu Rajak
+Author : Raghav Sarwan
 =========================================================
 """
 
