@@ -1,0 +1,26 @@
+===========================================================
+
+# Virtual Environment
+medico_env/
+
+# Environment Variables
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Vector Databases
+database/faiss_db/
+database/chroma_db/
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+============================================================
