@@ -6,8 +6,8 @@ Prompt Templates
 Contains all prompt templates
 used in AI Medico Bot.
 
-Author : Himanshu Rajak
-Project : AI Medico Bot
+Author : Raghav Sarwan
+Project : DOC AI
 """
 
 from langchain_core.prompts import ChatPromptTemplate

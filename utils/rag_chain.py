@@ -10,8 +10,8 @@ Supports
 3. Medical Term Explanation
 4. Questions for Doctor
 
-Author : Himanshu Rajak
-Project : AI Medico Bot
+Author : Raghav Sarwan
+Project : DOC AI
 """
 
 from utils.prompts import PromptManager

@@ -1,7 +1,7 @@
 """
-AI Medico Bot Utilities
+DOC AI  Utilities
 
-Author : Himanshu Rajak
+Author : Raghav Sarwan
 """
 
 from .loader import PDFLoader

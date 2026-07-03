@@ -6,8 +6,8 @@ Embedding Model Manager
 Supports multiple HuggingFace
 Sentence Transformer models.
 
-Author : Himanshu Rajak
-Project : AI Medico Bot
+Author : Raghav Sarwan
+Project : DOC AI
 """
 
 from langchain_huggingface import HuggingFaceEmbeddings
